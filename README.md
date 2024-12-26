@@ -3,6 +3,7 @@ Name : ROSHINI A
 Reg NO : 24002364
 
 # EXP-4:MONITORING LIGHT INTENSITY IN THING SPEAK CLOUD
+
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
@@ -111,11 +112,11 @@ int keyIndex = 0;
 WiFiClient  client;
 
 
-unsigned long myChannelNumber = 2794383;
+unsigned long myChannelNumber =2795397;
 
 const int ChannelField = 1;
 
-const char * myWriteAPIKey = "VZ9O95DWGO9XENVZ";
+const char * myWriteAPIKey = "FQSWPM7UOMFZLQDU";
 
 
 int ldrValue = 0;
