@@ -4,8 +4,6 @@ Reg NO : 24002364
 
 # EXP-4:MONITORING LIGHT INTENSITY IN THING SPEAK CLOUD
 
-# Uploading LDR sensor data in Thing Speak cloud
-
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
 # Apparatus required:
